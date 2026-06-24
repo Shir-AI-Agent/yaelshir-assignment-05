@@ -94,3 +94,6 @@ Key Breakthroughs (Technical details & credible sources)
 Companies Making Waves (Entity extraction)
 
 Actionable Insights (Managerial roadmap)
+
+## 📸 Proof of Execution
+The full execution logs and architectural documentation screenshots are available in the project's [images directory](images/).
